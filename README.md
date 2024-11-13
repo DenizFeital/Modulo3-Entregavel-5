@@ -41,10 +41,12 @@ Os seguintes componentes foram considerados neste arquitura inicial:
 * Dashboard de monitoração
 * Call Center da Solubio para atendimento caso o chat BOT não consiga resolver o chamado.
 
-
+## Resultados esperados
+Tendo em vista que é uma aplicação que está sendo implementada, os resultados esperados inicialmente é uma maior rapidez na resolução dos chamados/consultas dos usuários.
 <!-- ROADMAP -->
 ## Roadmap
 * Refinar a arquitetura. Neste momento a solução ainda está em alto nivel, mas as próximsa sprints teremos uma atualização desta arquitetura.
+
 ## Criação:
 
 
