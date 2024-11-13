@@ -2,7 +2,7 @@
 ## Sobre este projeto
 
 
-Este engajamento foi feito pensando em desenvolver uma solução BOT para a empresa Solubio. A ideia é atender os seus clientes e usuários com um chat bot integrado ao WhatsApp, para que os mesmos possam tirar dúvidas sobre os produtos e também ir além com possíveis compras novos ítens.
+Este engajamento foi feito pensando em desenvolver uma solução BOT para a empresa Solubio. A ideia é atender os seus clientes e usuários com um chat bot integrado ao WhatsApp, para que os mesmos possam acessar "**facilmente suas informações financeiras, suporte agronômico especializado e assitência técnica direcionada com o chatbot da SoluBio, otimizando a gestão e eficiência da lavoura**".
 
 Este engajamento se refere apenas a Sprint 1, que é o desenvolvimento da arquitetura da solução. Como estamos trabalhando num modelo de entrega ágil, esta solução poderá ser ajustadas nas próximas sprints.
 
@@ -43,6 +43,13 @@ Os seguintes componentes foram considerados neste arquitura inicial:
 
 ## Resultados esperados
 Tendo em vista que é uma aplicação que está sendo implementada, os resultados esperados inicialmente é uma maior rapidez na resolução dos chamados/consultas dos usuários.
+
+Seguir a proposta da valor esperada da SoluBio:
+
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/db4be593-dd21-4727-84d8-90a85d713855">
+
+
+
 <!-- ROADMAP -->
 ## Roadmap
 * Refinar a arquitetura. Neste momento a solução ainda está em alto nivel, mas as próximsa sprints teremos uma atualização desta arquitetura.
